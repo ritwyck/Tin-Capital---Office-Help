@@ -2,7 +2,7 @@
 
 This project features two primary programs: a Dutch email classifier and a PDF editor.
 
-- **Dutch Email Classifier**: This program automates the sorting of investor responses into "Approved" or "Disapproved" categories, streamlining the workflow for faster decision-making.
+- **Dutch Email Classifier**: This program automates the sorting of investor responses into "Approved" or "Disapproved" categories, streamlining the workflow for faster decision-making. This program utilises downloaded email files (.msg format) and converts them into usable cases.
   
 - **PDF Editor**: This tool serves as a temporary, local solution for editing PDFs. It enhances speed and keeps documents secure until they are transferred to an upcoming secure online service.
 
